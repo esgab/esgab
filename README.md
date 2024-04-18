@@ -1,5 +1,5 @@
-### Welcome, explorer! I'm Esther,
-## I'm a Junior, but passionate, Full Stack Developer and a former Graphic and Web Designer.
+## Welcome, explorer! I'm Esther,
+### I'm a Junior, but passionate, Full Stack Developer and a former Graphic and Web Designer.
 
 
 - 🌱 I’m currently refining my programming skills to reach the next level.
