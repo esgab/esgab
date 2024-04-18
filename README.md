@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on a very secret project. Just kidding! I'm actually working on personal projects.
-- 🌱 I’m currently refining my programming skills to reach the next level.
+- 🌱 I’m currently improving my programming skills to reach the next level.
 - 👯 I’m looking to collaborate on side projects.
 - 😄 Pronouns: She/Her.
 - 📫 If you'd like, reach out to me via [email](mailto:your-email@example.com) or connect on [LinkedIn](https://www.linkedin.com/in/esther-garcia-bennassar)
