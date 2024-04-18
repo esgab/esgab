@@ -1,5 +1,5 @@
 ## Welcome, explorer! 👋 I'm Esther,
-### I'm a Junior, but passionate, Full Stack Developer and a former Graphic and Web Designer.
+### I'm a Junior, but passionate, Full Stack Web Developer and a former Graphic and Web Designer.
 
 
 - 🔭 I’m currently working on a very secret project. Just kidding! I'm actually working on personal projects.
